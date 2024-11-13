@@ -2,7 +2,7 @@
 ## RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Name : ADHITHYA PERUMAL D
 # Reg No: 212222230007
-# Date: 21-10-24
+# Date:  08.10.2024
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
